@@ -1,8 +1,7 @@
-# React + Vite
+# Cloudinary Tetst
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repo es para probar el servicio de Cloudinary para subir imagenes desde un proyecto de React.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Se aplicaron estilos con Tailwind CSS v4.0.8.
+- Se uso lucide-react para los iconos.
+- Se limitó la carga de archivos a 2 MB.
