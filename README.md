@@ -1,4 +1,4 @@
-# Cloudinary Tetst
+# Cloudinary Tests
 
 Este repo es para probar el servicio de Cloudinary para subir imagenes desde un proyecto de React.
 
